@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "214085325694",
+    "firebase_url": "https://nooks-mobile-app.firebaseio.com",
+    "project_id": "nooks-mobile-app",
+    "storage_bucket": "nooks-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214085325694:android:11449ec616f1219c",
+        "android_client_info": {
+          "package_name": "xovoltlabs.nooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214085325694-97h3tg4p5vbr0kuvnrk7mc35qhhrmfc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xovoltlabs.nooks",
+            "certificate_hash": "9a98f7f379b6841bfbe00e7487d0e5145a148b26"
+          }
+        },
+        {
+          "client_id": "214085325694-0i5aekcu1432s92a00brm1iqkgedqiqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xovoltlabs.nooks",
+            "certificate_hash": "34261e856b0166a6222fd53293c6ee1fddd664bc"
+          }
+        },
+        {
+          "client_id": "214085325694-3oba3fci6gsqt1s7mobnikd5dajvac0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xovoltlabs.nooks",
+            "certificate_hash": "2309a483bbc7ad893024d5b3615e5721c5bddfb5"
+          }
+        },
+        {
+          "client_id": "214085325694-ck902qrqkp05lgepg4482uatq1i7b1fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifbdkrDD1HkhIAx39S6-TU0t1FGk8bCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214085325694-ck902qrqkp05lgepg4482uatq1i7b1fp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214085325694-n1qltnm7ke5afb77sa8eadvl7l5kmcmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xovoltlab.nooks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

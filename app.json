@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "Nooks",
+    "slug": "Nooks",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "facebookAppId": "214106956407112",
+    "facebookDisplayName": "Nooks",
+    "facebookScheme": "fb214106956407112",
+    "version": "3.1.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.xovoltlab.nooks",
+      "buildNumber": "45",
+      "config": {
+        "googleMapsApiKey": "AIzaSyDifbdkrDD1HkhIAx39S6-TU0t1FGk8bCw",
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.214085325694-n1qltnm7ke5afb77sa8eadvl7l5kmcmh"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Nooks needs to access your camera roll so that you can update your profile picture of your account. Your images will not be shared without your permission",
+        "NSPhotoLibraryUsageDescription": "Nooks needs to access your camera roll so that you can update your profile picture of your account. Your images will not be shared without your permission",
+        "NSPhotoLibraryAddUsageDescription": "Nooks needs to access your camera roll so that you can update your profile picture of your account. Your images will not be shared without your permission",
+        "NSLocationWhenInUseUsageDescription": "Nooks requires your location so that we can centre the map on you & show you your current location",
+        "NSLocationAlwaysUsageDescription": "Nooks requires your location so that we can centre the map on you & show you your current location",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Nooks requires your location so that we can centre the map on you & show you your current location",
+        "NSLocationUsageDescription": "Nooks requires your location so that we can centre the map on you & show you your current location"
+      }
+    },
+    "android": {
+      "package": "xovoltlabs.nooks",
+      "versionCode": 45,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDifbdkrDD1HkhIAx39S6-TU0t1FGk8bCw"
+        }
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": ""
+  }
+}
